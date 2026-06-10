@@ -1,0 +1,5 @@
+hh=int(input("enetre the hours::"))
+mm=int(input("enetre the minitus::"))
+sec=int(input("enetre the seconds::"))
+total_sec=(hh*3600)+(mm*60)+(60)
+print("Total seconds are::",total_sec)
